@@ -1,1 +1,2 @@
-second readme file
+- Second readme file
+- Update from the graphical github interface (not recommended)
